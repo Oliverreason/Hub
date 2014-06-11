@@ -7,8 +7,20 @@
 *.war
 *.ear
 temp.jar
-
+craftbukkit-1.7.9-R0.3.jar
 
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
+# Eclipse Stuff
+.DS_Store
+.metadata
+.log
+.lok
+.plugins
+.*ini
+.classpath
+.project
+.seetings
